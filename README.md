@@ -1,7 +1,7 @@
 ---
-variable: test1
+variable1: test1
 ---
 
 ## Fineplace.github.io
 # this place with happy people 
-This is test variable, named {{ variable }} !!!!
+This is test variable, named {{ variable1 }} !!!!
